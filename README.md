@@ -1,11 +1,12 @@
 ## Figma
 # -Project1:
 https://www.figma.com/design/R6TmL144Nn2MFsnrHiE9kR/%D0%A3%D0%BF%D1%80%D0%B0%D0%B6%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5-%D0%9F%D1%80%D0%BE%D1%84%D0%B8%D0%BB%D1%8C?node-id=0-1&p=f&t=4AJYZ3PdgpVV3yPg-0
-![Error](Images/Picture2.png)
+![Error](Images/Picture5.png)
 
 //Создание профиля
 # -Project2:
 https://www.figma.com/design/kPfwXgA4YvWbvUx1ZO4tNI/%D0%9F%D1%80%D0%BE%D1%84%D0%B8%D0%BB%D1%8C-Glass?t=4AJYZ3PdgpVV3yPg-0
+![Error](Images/Picture2.png)
 
 //Профиль - Glass
 # -Project3:
